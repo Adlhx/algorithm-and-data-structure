@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "book_id": "B1",
+      "title": "The Python Journey",
+      "genre": "Programming"
+    },
+    {
+      "book_id": "B2",
+      "title": "Data Science Basics",
+      "genre": "Data"
+    },
+    {
+      "book_id": "B3",
+      "title": "Deep Learning 101",
+      "genre": "AI"
+    },
+    {
+      "book_id": "B4",
+      "title": "Mystery of the Old House",
+      "genre": "Fiction"
+    },
+    {
+      "book_id": "B5",
+      "title": "Space Adventures",
+      "genre": "Sci-Fi"
+    },
+    {
+      "book_id": "B6",
+      "title": "History of Civilizations",
+      "genre": "History"
+    },
+    {
+      "book_id": "B7",
+      "title": "Clean Code Practices",
+      "genre": "Programming"
+    },
+    {
+      "book_id": "B8",
+      "title": "Advanced Algorithms",
+      "genre": "Programming"
+    },
+    {
+      "book_id": "B9",
+      "title": "Romance in Paris",
+      "genre": "Romance"
+    },
+    {
+      "book_id": "B10",
+      "title": "Gardening for Beginners",
+      "genre": "Hobby"
+    }
+  ]
+}

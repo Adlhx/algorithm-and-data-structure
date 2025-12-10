@@ -1,0 +1,52 @@
+{
+    "1001": {
+        "id": "1001",
+        "name": "Pen",
+        "quantity": 20,
+        "threshold": 10,
+        "reorder_amount": 30,
+        "group": "Stationery",
+        "supplier_id": "SUP6477",
+        "last_reordered": null
+    },
+    "1002": {
+        "id": "1002",
+        "name": "Notebook",
+        "quantity": 20,
+        "threshold": 10,
+        "reorder_amount": 20,
+        "group": "Stationery",
+        "supplier_id": "SUP1432",
+        "last_reordered": null
+    },
+    "1003": {
+        "id": "1003",
+        "name": "Headphones",
+        "quantity": 20,
+        "threshold": 8,
+        "reorder_amount": 5,
+        "group": "Electronics",
+        "supplier_id": "SUP2614",
+        "last_reordered": null
+    },
+    "1004": {
+        "id": "1004",
+        "name": "Suger",
+        "quantity": 10,
+        "threshold": 5,
+        "reorder_amount": 20,
+        "group": "Grocery",
+        "supplier_id": "SUP7070",
+        "last_reordered": null
+    },
+    "1005": {
+        "id": "1005",
+        "name": "Laptop",
+        "quantity": 5,
+        "threshold": 2,
+        "reorder_amount": 6,
+        "group": "Electronics",
+        "supplier_id": "SUP3595",
+        "last_reordered": null
+    }
+}

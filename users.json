@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "user_id": "U1",
+      "name": "Alice",
+      "purchased_books": [
+        "B1",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "user_id": "U2",
+      "name": "Bob",
+      "purchased_books": [
+        "B2",
+        "B3",
+        "B7",
+        "B8"
+      ]
+    },
+    {
+      "user_id": "U3",
+      "name": "Charlie",
+      "purchased_books": [
+        "B4",
+        "B5",
+        "B9"
+      ]
+    },
+    {
+      "user_id": "U4",
+      "name": "Diana",
+      "purchased_books": [
+        "B1",
+        "B7",
+        "B8"
+      ]
+    },
+    {
+      "user_id": "U5",
+      "name": "Eve",
+      "purchased_books": [
+        "B3",
+        "B5",
+        "B6",
+        "B10"
+      ]
+    }
+  ]
+}
